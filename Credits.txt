@@ -1,0 +1,32 @@
+Textures
+Seamless Rock Face Texture by hhh316
+https://www.deviantart.com/hhh316/art/Seamless-Rock-Face-Texture-271675185
+Seamless Dirt texture by hhh316
+https://www.deviantart.com/hhh316/art/Seamless-dirt-texture-163426021
+Black and White Dark Marble Texture by rawpixel.com on pexels.com
+https://www.pexels.com/photo/black-and-gray-abstract-graphic-908283/
+Roof Shingles by Dmitriy Chugai @ texturelib.com
+http://texturelib.com/texture/?path=/Textures/roof/roof_0074
+Tree Trunk by Dmitriy Chugai @ texturelib.com
+http://texturelib.com/texture/?path=/Textures/nature/trunk/nature_trunk_0018
+
+Music
+Fluidscape Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Models
+Low Poly Female (Blender) CyAN_1029 
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Bladed Decoration (Blender) by Valerie @ https://impudentvalerie.itch.io/
+Obelisk (Blender) by Valerie @ https://impudentvalerie.itch.io/
+Step Pyramid (Blender) by Valerie @ https://impudentvalerie.itch.io/
+Step Pyramid Scene (Blender) by Valerie @ https://impudentvalerie.itch.io/
+Tendrils (Blender) by Valerie @ https://impudentvalerie.itch.io/
+
+
+Scripts
+First Person Drift Controller Original by Eric Haines (Eric5h5) and adapted by @torahhorse
+http://torahhorse.com/first-person-drifter-controller-for-unity3d
+
